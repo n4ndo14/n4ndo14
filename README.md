@@ -6,7 +6,7 @@ Meu nome é Fernando Macedo
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo :mailbox:
 
 0000103307319sp@al.educacao.sp.gov.br
 
